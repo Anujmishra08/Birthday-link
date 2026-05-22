@@ -1,0 +1,35 @@
+
+
+.box{
+    height: 700px;
+    width: 1500px;
+    background-color: bisque;
+    box-shadow: 2px 4px 8px red;
+    display: flex;
+    justify-content: center;
+    font-family: papyrus;
+    
+}
+
+h1{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+.bx1{
+    height: 400px;
+    width: 1000px;
+    background-color: yellowgreen;
+    box-shadow: 2px 4px 8px blue;
+    position: relative;
+    margin: 150px 50px 30px 40px;
+
+}
+
+h2{
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+}
+
